@@ -14,7 +14,7 @@ public class Lab5 {
         String sFirstname, sLastname, sBroncoId;
         double sGrade;
         String pName, pDesc, pFname;
-        
+        //Sam was here through nano on 8/28/2021 at 9:55pm
         // Read some input data
         System.out.println("The student's first name?"); 
         sFirstname = scan.nextLine();
